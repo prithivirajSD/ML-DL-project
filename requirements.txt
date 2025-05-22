@@ -2,5 +2,6 @@ streamlit
 tensorflow
 numpy
 pandas
+keras
 scikit-learn
 Pillow

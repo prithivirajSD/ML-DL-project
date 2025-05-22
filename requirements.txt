@@ -1,7 +1,8 @@
-streamlit
-tensorflow>=2.12.0
+streamlit==0.84.0
+tensorflow==1.15.0
 keras
-numpy
-pandas
+numpy==1.16.6
+pandas==1.1.5
 scikit-learn
 Pillow
+

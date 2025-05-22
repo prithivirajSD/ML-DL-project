@@ -1,8 +1,8 @@
-streamlit==0.84.0
-tensorflow==1.15.0
-keras
-numpy==1.16.6
-pandas==1.1.5
+streamlit
+tensorflow==2.11.0
+keras==2.11.0
+numpy
+pandas
 scikit-learn
 Pillow
 
